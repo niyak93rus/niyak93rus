@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolay
-- 👀 I’m interested in finding a job in web-dev
+- 👀 I’m interested in finding a job as a frontend developer
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on learning projects
+- 💞️ I’m looking to collaborate on learning projects and open-source
 - 📫 How to reach me: here or by mail - n.yakovlev96@gmail.com
 
 <!---
