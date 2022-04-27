@@ -1,11 +1,11 @@
-- 👋 Hi, there! I’m Nikolay
-- 👀 I’m looking for a frontend developer job
+- 👋 Hi, there! I’m **Nikolay**
+- 👀 I’m looking for a **frontend developer** job
 - 🌱 I’m currently learning Frontend: see my finished projects pinned in profile 
 - 🤝🏻 I’m looking to collaborate on learning projects and open-source
-- 📫 How to reach me: here or by mail - n.yakovlev96@gmail.com
+- 📫 How to reach me: here or by mail - **n.yakovlev96@gmail.com**
 
-## Skills: 
-Javascript, HTML, CSS. On to: React
+  ### Skills: 
+  Javascript, HTML, CSS. On to: React
 
 <!---
 niyak93rus/niyak93rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
