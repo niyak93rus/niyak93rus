@@ -6,6 +6,9 @@
 
   ### Skills: 
   Javascript, HTML, CSS. On to: React
+  
+  ### Actual CV (in Russian)
+  [My CV](https://cv.hexlet.io/resumes/549)
 
 <!---
 niyak93rus/niyak93rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
