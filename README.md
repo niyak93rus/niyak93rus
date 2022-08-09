@@ -5,7 +5,7 @@
 - 📫 How to reach me: here or by mail - **n.yakovlev96@gmail.com**
 
   ### Skills: 
-  Javascript, HTML, CSS. On to: React
+  Javascript, HTML, CSS, React, Redux Toolkit
   
   ### Actual CV (in Russian)
   [My CV](https://cv.hexlet.io/resumes/549)
