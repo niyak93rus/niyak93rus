@@ -2,8 +2,7 @@
 - 📫 How to reach me: here or by mail - **n.yakovlev96@gmail.com**
 
   ### Skills: 
-  JavaScript, HTML, CSS, React, Redux Toolkit, Windows System Administration
-  
+  Basic PHP, JavaScript, Windows System Administration, basic networking
 
 <!---
 niyak93rus/niyak93rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
